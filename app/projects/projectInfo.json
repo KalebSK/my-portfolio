@@ -1,0 +1,45 @@
+[
+    {
+        "name": "Portfolio Website",
+        "image": "portfolio",
+        "description": "You're looking at it right now! My very own portfolio website to showcase my skills and experiences. Designed in Figma, built with the React framework known as Next.js and deployed on Vercel, this website leverages the power of React Server Components to deliver a fast and light experience.",
+        "technology": "React, Next.js, TypeScript, JavaScript, Azure Functions, SMTP, Git, Figma, HTML, CSS, TailwindCSS, Google ReCaptcha",
+        "links": [
+            {
+                "name": "repository",
+                "url": "https://github.com/KalebSK/my-portfolio/"
+            }
+        ]
+    },
+    {
+        "name": "SimpleFit App",
+        "image": "simplefit",
+        "description": "A Progressive Web App (PWA) actively being built by me to deliver users the ability to easily track and share their workout routines anytime on any device with a modern web browser. The responsive frontend is built on the back of the cutting edge JavaScript Library known as SolidJS allowing for a fast and performant experience. The backend server is built to run on Deno, the modern JavaScript runtime with a REST API to allow information to be passed between client and server in a fast and secure way. The project also leverages tools from Google Cloud Platform to store non-text data for users and a PostreSQL database for all text based information.",
+        "technology": "TypeScript/JavaScript, REST API, Figma, GIT, HTML, CSS, TailwindCSS, SolidJS, Google Cloud Platform, PostgreSQL",
+        "links": []
+    },
+    {
+        "name": "TODO App with Cloud Integration",
+        "image": "missing",
+        "description": "A responsive web application that allows users to create a list of todos with 3 levels of priority and sync them across any device using their Google account.",
+        "technology": "TypeScript/JavaScript, HTML, CSS, TailwindCSS, Google Cloud Platform, React, NextJS, OAuth 2.0, LibSQL, GIT",
+        "links": [
+            {
+                "name": "repository",
+                "url": "https://github.com/KalebSK/Todo-With-GCP/"
+            }
+        ]
+    },
+    {
+        "name": "Discord Events to Google Calendar Events Bot",
+        "image": "discordgoogle",
+        "description": "Discord events can be a cool feature to coordinate events for your discord server, but imagine if users could add those events to their Google Calendar automatically? This is where my Discord bot comes into the equation. Written in Python, this bot leverages the Discord API and the Google Cloud Platform API to allow server owners to sync their Discord events to their Google Calendar.",
+        "technology": "docker, Python, Discord API, Google Calendar API, Flask, SQLite, Makefile, GIT, REST, Nginx",
+        "links": [
+            {
+                "name": "repository",
+                "url": "https://github.com/KalebSK/TeebsonBot/"
+            }
+        ]
+    }
+]
